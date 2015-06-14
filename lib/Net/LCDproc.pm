@@ -248,6 +248,9 @@ sub update {
 
 1;
 
+
+__END__
+
 =head1 SYNOPSIS
 
   use Net::LCDproc; # this loads all the mods under Net::LCDproc::*
